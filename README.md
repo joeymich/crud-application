@@ -1,5 +1,5 @@
 # crud-application
-Crud application created using the tkinter gui module. Data is stored in json files so that info is saved between sessions. The gui is modeled after a sneaker bot.
+Crud application created using the tkinter module. Data is stored in json files so that info is saved between sessions. The gui is modeled to be a Supreme bot.
 
 ## Installation
 To Install Files:
